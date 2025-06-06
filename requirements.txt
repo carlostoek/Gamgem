@@ -1,0 +1,5 @@
+aiogram==3.*
+python-dotenv==1.*
+SQLAlchemy==2.*
+asyncpg==0.29.*
+APScheduler==3.*
